@@ -72,11 +72,11 @@ $number =  $data['number']['number'];
  if($data['data']){
 bot('sendmessage', [
                 'chat_id' =>$chat_id,
-                'text' =>"***VALID BIN✅
+                'text' =>"***CC Generated✅
                
 ➤ CC :*** `$card` ***
 ➤ number : $number
-🔺Owner Bin-Info bot: @Shein0425🔻***",
+🔺Owner CC Gen bot: @Shein0425🔻***",
 'parse_mode'=>"MarkDown",
 ]);
     }
