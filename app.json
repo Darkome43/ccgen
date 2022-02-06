@@ -1,0 +1,27 @@
+{
+    "name": "Bin-Info Bot",
+    "description": "Bot Of PHP",
+    "keywords": [
+        "Bin",
+        "Bot",
+        "Telegra."
+    ],
+    "website": "#Shein",
+    "repository": "https://github.com/Darkome43/Bin-Info",
+    "success_url": "/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },
+        "START_MESSAGE": {
+            "description": "A start message for your bot."
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
