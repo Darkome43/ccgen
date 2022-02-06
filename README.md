@@ -1,11 +1,11 @@
-# Bin-Checker-Bot
+# CC Gen-Bot
 
 Bot OF PHP.
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkome43/Bin-Info)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkome43/ccgen)
 
 # WEBHOOK
 WEBHOOK ``api.telegram.org/bot"your bot token"/setwebhook?url=https://"Name APP".herokuapp.com/bot.php``
