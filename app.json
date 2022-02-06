@@ -1,13 +1,13 @@
 {
-    "name": "Bin-Info Bot",
+    "name": "cc gen Bot",
     "description": "Bot Of PHP",
     "keywords": [
-        "Bin",
+        "cc",
         "Bot",
         "Telegra."
     ],
     "website": "#Shein",
-    "repository": "https://github.com/Darkome43/Bin-Info",
+    "repository": "https://github.com/Darkome43/ccgen",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
