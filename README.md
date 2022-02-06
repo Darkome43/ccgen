@@ -18,9 +18,9 @@ WEBHOOK ``api.telegram.org/bot"your bot token"/setwebhook?url=https://"Name APP"
 
 # COMMANDS
 
-``/start - To stat the bin``
+``/start - To stat the cc``
 
-``/bin xxxxx - To Check the bin``
+``/cc Type - To Gen cc``
 
 ## HELP ME
 
